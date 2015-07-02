@@ -7,6 +7,7 @@
 .	。
 [	「
 ]	」
+@	ん
 a	あ
 ba	ば
 bb	っ	b
@@ -402,7 +403,19 @@ pyi	ぴぃ
 pyo	ぴょ
 pyu	ぴゅ
 pz	ぱん
-q	ん
+qa	きゃ
+qf	きょう
+qh	きゅう
+qj	きゅん
+ql	きょん
+qn	きゃん
+qo	きょ
+qp	きょう
+qq	きゃい
+qu	きゅ
+qv	きゅう
+qx	きょう
+qz	きゃん
 ra	ら
 rd	れん
 re	れ
