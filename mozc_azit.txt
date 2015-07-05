@@ -101,6 +101,7 @@ h;	う
 j;	じぇい
 k;	っく
 l;	る
+m;	む
 n;	ん
 p;	っぷ
 q;	っく
@@ -349,7 +350,7 @@ ka	か
 kb	こん
 kd	けん
 ke	け
-kf	こう
+kf	かい
 kg	きん
 kh	こう
 ki	き
@@ -397,7 +398,7 @@ ma	ま
 mb	もん
 md	めん
 me	め
-mf	もう
+mf	まい
 mg	みん
 mh	まい
 mi	み
@@ -410,7 +411,6 @@ mv	みゅう
 mw	むう
 mx	みょう
 my	まい
-m;	む
 
 mja	みゃ
 mjb	みょん
@@ -431,7 +431,7 @@ na	な
 nb	のん
 nd	ねん
 ne	ね
-nf	のう
+nf	ない
 ng	にん
 nh	ない
 ni	に
@@ -578,7 +578,7 @@ td	てん
 te	て
 tg	てぃん
 th	とう
-ti  てぃ	
+ti	てぃ
 tl	てい
 tm	つん
 tn	たん
