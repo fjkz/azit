@@ -562,9 +562,9 @@ ta	た
 tb	とん
 td	てん
 te	て
-tg	てぃん
+tg	ちん
 th	とう
-ti	てぃ
+ti	ち
 tl	てい
 tm	つん
 tn	たん
