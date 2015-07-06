@@ -368,6 +368,7 @@ kjy	きゃい
 
 la	りゃ
 lb	りょん
+ld	りぇん
 le	りぇ
 lf	りょ
 lh	りょう
@@ -386,7 +387,7 @@ md	めん
 me	め
 mf	まい
 mg	みん
-mh	まい
+mh	もう
 mi	み
 ml	めい
 mm	むん
@@ -419,7 +420,7 @@ nd	ねん
 ne	ね
 nf	ない
 ng	にん
-nh	ない
+nh	のう
 ni	に
 nl	ねい
 nm	ぬん
@@ -512,6 +513,7 @@ ry	らい
 
 rja	りゃ
 rjb	りょん
+rjd	りぇん
 rje	りぇ
 rjh	りょう
 rji	りぃ
