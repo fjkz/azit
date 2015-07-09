@@ -79,6 +79,7 @@ ck	っく
 cs	くす
 ct	くと
 ft	ふと
+xt	くすと
 sc	すく
 st	すと
 lc	るく
@@ -289,13 +290,13 @@ hd	へん
 he	へ
 hf	はい
 hg	ひん
-hh	ほう
+hh	ひゅー
 hi	ひ
 hl	へい
 hm	ふん
 hn	はん
 ho	ほ
-hu	ふ
+hu	ひゅ
 hv	ひょう
 hw	ふう
 hx	ひゅう
