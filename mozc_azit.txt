@@ -601,8 +601,8 @@ vm	ぶん
 vn	ばん
 vo	ぼ
 vu	ぶ
-vw	ぶう
-vy	ばい
+vw	びゅー
+vy	ヴぃー
 
 vja	ヴぁ
 vjb	ヴぉん
