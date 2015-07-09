@@ -565,6 +565,7 @@ ta	た
 tb	とん
 td	てん
 te	て
+tf	たい
 tg	ちん
 th	とう
 ti	ち
