@@ -290,7 +290,7 @@ hd	へん
 he	へ
 hf	はい
 hg	ひん
-hh	ひゅー
+hh	ほう
 hi	ひ
 hl	へい
 hm	ふん
@@ -298,7 +298,7 @@ hn	はん
 ho	ほ
 hu	ひゅ
 hv	ひょう
-hw	ふう
+hw	ひゅー
 hx	ひゅう
 hy	はい
 
