@@ -14,17 +14,28 @@
 @w	うう
 @y	あい
 
-'a	ぁ
-'e	ぇ
-'i	ぃ
-'ka	ヵ
-'ke	ヶ
-'o	ぉ
-'tu	っ
-'u	ぅ
-'ya	ゃ
-'yo	ょ
-'yu	ゅ
+zxa	ぁ
+xza	ぁ
+zxe	ぇ
+xze	ぇ
+zxi	ぃ
+xzi	ぃ
+zxka	ヵ
+xzka	ヵ
+zxke	ヶ
+xzke	ヶ
+zxo	ぉ
+xzo	ぉ
+zxtu	っ
+xztu	っ
+zxu	ぅ
+xzu	ぅ
+zxya	ゃ
+xzya	ゃ
+zxyo	ょ
+xzyo	ょ
+zxyu	ゅ
+xzyu	ゅ
 
 cc	っ	c
 ff	っ	f
