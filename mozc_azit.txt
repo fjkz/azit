@@ -510,11 +510,7 @@ tsz	つぁん
 tt	たち
 t'u	とぅ
 tu	つ
-twa	とぁ
-twe	とぇ
-twi	とぃ
-two	とぉ
-twu	とぅ
+tw	てい
 tya	てゃ
 tye	ちぇ
 tyh	てゅー
