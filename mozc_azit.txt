@@ -33,25 +33,45 @@ u	う
 @;yu	ゅ
 
 cc	っ	c
+dd	っ	d
 ff	っ	f
 kk	っ	k
 pp	っ	p
 ss	っ	s
 tt	っ	t
 xx	っ	x
+zz	っ	z
 
 ds	で	s
 ms	ま	s
+rs	ら	s
+ts	と	s
+ws	わ	s
+
+kr	か	r
 nr	な	r
 rr	ら	r
+sr	す	r
+tr	と	r
 yr	よ	r
-st	し	t
-kt	こ	t
+wr	わ	r
+
 gt	ご	t
-dr	である
+kt	こ	t
+mt	ま	t
+rt	り	t
+st	し	t
+wt	わ	t
+
+dk	で	k
+nk	な	k
+rk	り	k
+sk	し	k
+wk	わ	k
+
 ck	っく
-mt	また
-sk	しか
+dr	である
+xs	くす
 
 ba	ば
 bb	ぼん
@@ -101,7 +121,7 @@ cy	ちゃい
 
 da	だ
 db	どん
-dd	でん
+d;d	でん
 de	で
 df	で
 dg	ぢん
@@ -117,22 +137,18 @@ dw	づう
 dx	ぢょう
 dy	だい
 
-dcg	でぃん
-dci	でぃ
-dcm	どぅん
-dcu	どぅ
-dcw	どぅー
-
 dja	ぢゃ
 djb	ぢょん
 dje	ぢぇ
+djg	でぃん
+djh	ぢょう
 dji	でぃ
 djl	ぢぇい
-djm	でゅん
+djm	どぅん
 djn	ぢゃん
 djo	ぢょ
-dju	でゅ
-djw	でゅー
+dju	どぅ
+djw	どぅー
 djy	ぢゃい
 
 fa	ふぁ
@@ -194,6 +210,7 @@ ha	は
 hb	ほん
 hd	へん
 he	へ
+hf	はい
 hg	ひん
 hh	ほう
 hi	ひ
@@ -435,19 +452,18 @@ tu	つ
 tw	つう
 ty	たい
 
-tsa	つぁ
-tsb	つぉん
-tsd	つぇん
-tse	つぇ
-tsg	つぃん
-tsi	つぃ
-tsm	つん
-tsn	つぁん
-tso	つぉ
-tst	として
-tsu	つ
-tsw	つう
-tsy	つぁい
+tja    つぁ
+tjb    つぉん
+tjd    つぇん
+tje    つぇ
+tjg    てぃん
+tji    てぃ
+tjm    とぅん
+tjn    つぁん
+tjo    つぉ
+tju    とぅ
+tjw    とぅー
+tjy    つぁい
 
 va	ゔぁ
 vb	ゔぉん
