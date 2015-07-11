@@ -30,6 +30,7 @@ MR	まる
 MS	ます
 MT	また
 NB	ねば
+NN	ん
 NR	なる
 NT	にち
 O	ぉ
@@ -119,6 +120,7 @@ dve	ぢぇ
 dvh	でゅー
 dvi	でぃ
 dvm	ぢゅん
+dvn	ぢゃん
 dvl	ぢょん
 dvo	ぢょ
 dvj	ぢゃい
@@ -227,6 +229,7 @@ hye	ひぇ
 hyh	ひゅう
 hyi	ひぃ
 hym	ひゅん
+hyn	ひゃん
 hyl	ひょん
 hyo	ひょ
 hyp	ひょう
@@ -243,7 +246,7 @@ ji	じ
 jm	じゅん
 jk	じん
 jl	じょん
-jn	じん
+jn	じゃん
 jo	じょ
 jp	じょう
 jj	じゃい
@@ -271,6 +274,7 @@ kvz	きゃん
 kh	くう
 ki	き
 km	くん
+kn	かん
 kk	きん
 kl	こん
 ko	こ
@@ -291,6 +295,7 @@ le	りぇ
 lh	りゅう
 li	りぃ
 lm	りゅん
+ln	りゃん
 ll	りょん
 lo	りょ
 lp	りょう
@@ -316,6 +321,7 @@ mvz	みゃん
 mh	むう
 mi	み
 mm	むん
+mn	まん
 mk	みん
 ml	もん
 mo	も
@@ -353,7 +359,7 @@ ni	に
 nm	ぬん
 nk	にん
 nl	のん
-nn	ん
+nn	なん
 no	の
 np	のう
 nj	ない
@@ -386,7 +392,7 @@ pi	ぴ
 pm	ぷん
 pk	ぴん
 pl	ぽん
-pn	ぺん
+pn	ぱん
 po	ぽ
 pp	ぽう
 pj	ぱい
@@ -432,6 +438,7 @@ rya	りゃ
 rye	りぇ
 ryh	りゅう
 ryi	りぃ
+ryn	りゃん
 rym	りゅん
 ryl	りょん
 ryo	りょ
@@ -444,11 +451,6 @@ sa	さ
 sd	せん
 se	せ
 sh	すう
-sha	しゃ
-she	しぇ
-shi	し
-sho	しょ
-shu	しゅ
 si	し
 sm	すん
 sk	しん
@@ -502,6 +504,7 @@ tse	つぇ
 tsh	つう
 tsi	つぃ
 tsm	つん
+tsn	つぁん
 tsk	つぃん
 tsl	つぉん
 tso	つぉ
@@ -516,6 +519,7 @@ tye	ちぇ
 tyh	てゅー
 tyi	ちぃ
 tym	てゅん
+tyn	てゃん
 tyo	ちょ
 tyj	てゃい
 tyu	てゅ
@@ -569,6 +573,7 @@ xd	しぇん
 xe	しぇ
 xh	しゅう
 xi	し
+xn	しゃん
 xm	しゅん
 xk	しん
 xl	しょん
@@ -593,6 +598,7 @@ yd	いぇん
 ye	いぇ
 yh	ゆう
 ym	ゆん
+yn	やん
 yl	よん
 yo	よ
 yp	よう
