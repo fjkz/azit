@@ -63,7 +63,7 @@ bl	ぼん
 bn	ばん
 bo	ぼ
 bp	ぼう
-bj	ばい
+by	ばい
 bu	ぶ
 bv	びゅう
 bw	べい
@@ -78,7 +78,7 @@ bjl	びょん
 bjn	びゃん
 bjo	びょ
 bjp	びょう
-bjj	びゃい
+bjy	びゃい
 bju	びゅ
 bjw	びぇい
 bjz	びゃん
@@ -95,7 +95,7 @@ cl	ちょん
 cn	ちゃん
 co	ちょ
 cp	ちょう
-cj	ちゃい
+cy	ちゃい
 cu	ちゅ
 cw	ちぇい
 cz	ちゃん
@@ -115,7 +115,7 @@ djm	ぢゅん
 djn	ぢゃん
 djl	ぢょん
 djo	ぢょ
-djj	ぢゃい
+djy	ぢゃい
 dju	ぢゅ
 djz	ぢゃん
 dh	づう
@@ -126,12 +126,11 @@ dl	どん
 dn	だん
 do	ど
 dp	どう
-dj	だい
+dy	だい
 du	づ
 dv	ぢゅう
 dw	でい
 dx	ぢょう
-dy	でぃ
 dz	だん
 e	え
 fa	ふぁ
@@ -145,7 +144,7 @@ fl	ふぉん
 fn	ふぁん
 fo	ふぉ
 fp	ふぉー
-fj	ふぁい
+fy	ふぁい
 fu	ふ
 fv	ふゅー
 fw	ふぇい
@@ -167,7 +166,7 @@ gl	ごん
 gn	がん
 go	ご
 gp	ごう
-gj	がい
+gy	がい
 gu	ぐ
 gv	ぎゅう
 gw	げい
@@ -182,7 +181,7 @@ gjl	ぎょん
 gjn	ぎゃん
 gjo	ぎょ
 gjp	ぎょう
-gjj	ぎゃい
+gjy	ぎゃい
 gju	ぎゅ
 gjw	ぎぇい
 gjz	ぎゃん
@@ -200,7 +199,7 @@ hjn	ひゃん
 hjo	ひょ
 hjp	ひょう
 hji	ひぃ
-hjj	ひゃい
+hjy	ひゃい
 hju	ひゅ
 hjz	ひゃん
 hh	ふう
@@ -211,7 +210,7 @@ hl	ほん
 hn	はん
 ho	ほ
 hp	ほう
-hj	はい
+hy	はい
 hu	ふ
 hv	ひゅう
 hw	へい
@@ -229,7 +228,7 @@ jl	じょん
 jn	じゃん
 jo	じょ
 jp	じょう
-jj	じゃい
+jy	じゃい
 ju	じゅ
 jw	じぇい
 jz	じゃん
@@ -245,7 +244,7 @@ kjl	きょん
 kjn	きゃん
 kjo	きょ
 kjp	きょう
-kjj	きゃい
+kjy	きゃい
 kju	きゅ
 kjz	きゃん
 kh	くう
@@ -256,7 +255,7 @@ kk	きん
 kl	こん
 ko	こ
 kp	こう
-kj	かい
+ky	かい
 ku	く
 kv	きゅう
 kw	けい
@@ -271,7 +270,7 @@ ln	りゃん
 ll	りょん
 lo	りょ
 lp	りょう
-lj	りゃい
+ly	りゃい
 lu	りゅ
 lz	りゃん
 ma	ま
@@ -300,7 +299,7 @@ mk	みん
 ml	もん
 mo	も
 mp	もう
-mj	まい
+my	まい
 mu	む
 mv	みゅう
 mw	めい
@@ -332,7 +331,7 @@ nl	のん
 nn	なん
 no	の
 np	のう
-nj	ない
+ny	ない
 nu	ぬ
 nv	にゅう
 nw	ねい
@@ -375,7 +374,7 @@ ql	きょん
 qn	きゃん
 qo	きょ
 qp	きょう
-qj	きゃい
+qy	きゃい
 qu	きゅ
 qv	きゅう
 qx	きょう
@@ -391,7 +390,7 @@ rl	ろん
 rn	らん
 ro	ろ
 rp	ろう
-rj	らい
+ry	らい
 ru	る
 rv	りゅう
 rw	れい
@@ -408,7 +407,7 @@ sl	そん
 sn	さん
 so	そ
 sp	そう
-sj	さい
+sy	さい
 ss	せい
 su	す
 sv	しゅう
@@ -446,7 +445,7 @@ tl	とん
 tn	たん
 to	と
 tp	とう
-tj	たい
+ty	たい
 tr	たら
 tsa	つぁ
 tsd	つぇん
@@ -458,7 +457,7 @@ tsn	つぁん
 tsk	つぃん
 tsl	つぉん
 tso	つぉ
-tsj	つぁい
+tsy	つぁい
 tst	として
 tsu	つ
 tsz	つぁん
@@ -487,7 +486,7 @@ vl	ゔぉん
 vn	ゔぁん
 vo	ゔぉ
 vp	ゔぉう
-vj	ゔぁい
+vy	ゔぁい
 vu	ゔ
 vv	ゔゅー
 vw	ゔぇい
@@ -511,7 +510,7 @@ wl	うぉん
 wn	わん
 wo	を
 wp	うぉー
-wj	わい
+wy	わい
 wso	うぉ
 wu	う
 ww	うぇい
@@ -530,7 +529,7 @@ xl	しょん
 xn	しゃん
 xo	しょ
 xp	しょう
-xj	しゃい
+xy	しゃい
 xtsu	っ
 xtu	っ
 xu	しゅ
@@ -552,7 +551,7 @@ yn	やん
 yl	よん
 yo	よ
 yp	よう
-yj	やい
+yy	やい
 yu	ゆ
 yw	いぇい
 yy	っ	y
@@ -575,7 +574,7 @@ zl	ぞん
 zn	ざん
 zo	ぞ
 zp	ぞう
-zj	ざい
+zy	ざい
 zu	ず
 zv	ざい
 zw	ぜい
