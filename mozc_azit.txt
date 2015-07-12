@@ -27,6 +27,7 @@ u	う
 @;ka	ヵ
 @;ke	ヶ
 @;o	ぉ
+@;tu	っ
 @;u	ぅ
 @;ya	ゃ
 @;yo	ょ
@@ -48,30 +49,94 @@ rs	ら	s
 ts	と	s
 ws	わ	s
 
+sc	す	c
+
+cr	く	r
+dr	ど	r
+fr	ふ	r
+gr	ぐ	r
 kr	か	r
+mr	ま	r
 nr	な	r
+pr	ぷ	r
 rr	ら	r
 sr	す	r
 tr	と	r
-yr	よ	r
 wr	わ	r
+yr	よ	r
 
 gt	ご	t
 kt	こ	t
 mt	ま	t
-rt	り	t
-st	し	t
+st	す	t
 wt	わ	t
 
 dk	で	k
-nk	な	k
-rk	り	k
-sk	し	k
+sk	す	k
 wk	わ	k
 
+lp	る	p
+np	ん	p
+sp	す	p
+
+dz	であ	r
+
 ck	っく
-dr	である
-xs	くす
+cs	くす
+ct	くと
+ft	ふと
+lc	るく
+lk	るく
+lt	ると
+nc	んく
+nk	んく
+nt	んと
+rc	ーく
+rk	ーく
+rt	ーと
+ps	っぷす
+pt	ぷと
+
+c;	っく
+d;;	っど
+f;	ふ
+g;	っぐ
+h;	ー
+j;	じぇい
+k;	っく
+l;	る
+p;	っぷ
+q;	きゅー
+r;	ー
+s;	す
+t;	と
+v;	ぶ
+w;	ー
+x;	っくす
+z;	ず;
+
+b.	ぶ。
+d.	だ。
+g.	ぐ。
+k.	く。
+m.	む。
+n.	ん。
+r.	る。
+s.	す。
+t.	た。
+z.	ず。
+
+b,	ば、
+g,	が、
+h,	は、
+j,	じ、
+k,	く、
+m,	み、
+n,	に、
+r,	り、
+s,	し、
+t,	て、
+z,	ず、
 
 ba	ば
 bb	ぼん
@@ -119,14 +184,29 @@ cu	ちゅ
 cw	ちゅう
 cy	ちゃい
 
+cja	ちゃ
+cjb	ちょん
+cjd	ちぇん
+cje	ちぇ
+cjg	ちん
+cjh	ちょう
+cji	ち
+cjl	ちぇい
+cjm	ちゅん
+cjn	ちゃん
+cjo	ちょ
+cju	ちゅ
+cjw	ちゅう
+cjy	ちゃい
+
 da	だ
 db	どん
 d;d	でん
 de	で
 df	で
-dg	ぢん
+dg	でぃん
 dh	どう
-di	ぢ
+di	でぃ
 dl	でい
 dm	づん
 dn	だん
@@ -140,9 +220,9 @@ dy	だい
 dja	ぢゃ
 djb	ぢょん
 dje	ぢぇ
-djg	でぃん
+djg	ぢん
 djh	ぢょう
-dji	でぃ
+dji	ぢ
 djl	ぢぇい
 djm	どぅん
 djn	ぢゃん
@@ -196,6 +276,8 @@ gja	ぎゃ
 gjb	ぎょん
 gjd	ぎぇん
 gje	ぎぇ
+gjf	ぎょう
+gjg	ぎぃーん
 gjh	ぎょう
 gji	ぎぃ
 gjl	ぎぇい
@@ -272,6 +354,22 @@ kv	きゅう
 kw	くう
 kx	きょう
 ky	かい
+
+kja	きゃ
+kjb	きょん
+kjd	きぇん
+kje	きぇ
+kjf	きゃ
+kjg	きぃん
+kjh	きょう
+kji	きぃ
+kjl	きぇい
+kjm	きゅん
+kjn	きゃん
+kjo	きょ
+kju	きゅ
+kjw	きゅう
+kjy	きゃい
 
 la	りゃ
 lb	りょん
@@ -375,6 +473,7 @@ qa	きゃ
 qb	きょん
 qd	きぇん
 qe	きぇ
+qf	きゃ
 qg	きぃん
 qh	きょう
 qi	きぃ
@@ -418,6 +517,20 @@ rw	るう
 rx	りょう
 ry	らい
 
+rja	りゃ
+rjb	りょん
+rje	りぇ
+rjf	りょ
+rjh	りょう
+rji	りぃ
+rjl	りぇい
+rjm	りゅん
+rjn	りゃん
+rjo	りょ
+rju	りゅ
+rjw	りゅう
+rjy	りゃい
+
 sa	さ
 sb	そん
 sd	せん
@@ -436,6 +549,22 @@ sw	すう
 sx	しょう
 sy	さい
 
+sja	しゃ
+sjb	しょん
+sjd	しぇん
+sje	しぇ
+sjf	しゅう
+sjg	しん
+sjh	しょう
+sji	し
+sjl	しぇい
+sjm	しゅん
+sjn	しゃん
+sjo	しょ
+sju	しゅ
+sjw	しゅう
+sjy	しゃい
+
 ta	た
 tb	とん
 td	てん
@@ -452,18 +581,18 @@ tu	つ
 tw	つう
 ty	たい
 
-tja    つぁ
-tjb    つぉん
-tjd    つぇん
-tje    つぇ
-tjg    てぃん
-tji    てぃ
-tjm    とぅん
-tjn    つぁん
-tjo    つぉ
-tju    とぅ
-tjw    とぅー
-tjy    つぁい
+tja	つぁ
+tjb	つぉん
+tjd	つぇん
+tje	つぇ
+tjg	てぃん
+tji	てぃ
+tjm	とぅん
+tjn	つぁん
+tjo	つぉ
+tju	とぅ
+tjw	とぅー
+tjy	つぁい
 
 va	ゔぁ
 vb	ゔぉん
@@ -499,6 +628,7 @@ wja	うぁ
 wje	ゑ
 wji	ゐ
 wjo	うぉ
+wju	うぅ
 
 xa	しゃ
 xb	しょん
