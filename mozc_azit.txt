@@ -347,7 +347,7 @@ ka	か
 kb	こん
 kd	けん
 ke	け
-kf	き
+kf	こう
 kg	きん
 kh	こう
 ki	き
@@ -397,7 +397,7 @@ md	めん
 me	め
 mf	もう
 mg	みん
-mh	もう
+mh	まい
 mi	み
 ml	めい
 mm	むん
@@ -431,7 +431,7 @@ nd	ねん
 ne	ね
 nf	のう
 ng	にん
-nh	のう
+nh	ない
 ni	に
 nl	ねい
 nm	ぬん
