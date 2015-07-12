@@ -123,6 +123,7 @@ p.	ぷ。
 r.	る。
 s.	す。
 t.	た。
+v.	ぶ。
 z.	ず。
 
 b,	ば、
@@ -136,6 +137,7 @@ n,	に、
 r,	り、
 s,	し、
 t,	て、
+v,	び、
 z,	ず、
 
 a	あ
@@ -599,22 +601,39 @@ tju	とぅ
 tjw	とぅー
 tjy	つぁい
 
-va	ゔぁ
-vb	ゔぉん
-vd	ゔぇん
-ve	ゔぇ
-vg	ゔぃん
-vh	ゔぉう
-vi	ゔぃ
-vl	ゔぇい
-vm	ゔん
-vn	ゔぁん
-vo	ゔぉ
-vu	ゔ
-vv	ゔゅう
-vw	ゔぅ
-vv	ゔょう
-vy	ゔぁい
+va	ば
+vb	ぼん
+vd	べん
+ve	べ
+vg	びん
+vh	ぼう
+vi	び
+vl	べい
+vm	ぶん
+vn	ばん
+vo	ぼ
+vu	ぶ
+vv	ヴぅ
+vw	ぶう
+vx	ヴぉう
+vy	ばい
+
+vja	ヴぁ
+vjb	ヴぉん
+vjd	ヴぇん
+vje	ヴぇ
+vjg	ヴぃん
+vjh	ヴぉう
+vji	ヴぃ
+vjl	ヴぇい
+vjm	ヴん
+vjn	ヴぁん
+vjo	ヴぉ
+vju	ヴゔ
+vjv	ヴょう
+vjw	ヴぅ
+vjv	ヴょう
+vjy	ヴぁい
 
 wa	わ
 wb	うぉん
