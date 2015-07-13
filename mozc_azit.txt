@@ -44,8 +44,6 @@ rs	ら	s
 ts	と	s
 ws	わ	s
 
-sc	す	c
-
 cr	く	r
 dr	ど	r
 fr	ふ	r
@@ -71,6 +69,7 @@ wk	わ	k
 
 lp	る	p
 np	ん	p
+mp	ん	p
 sp	す	p
 tp	と	p
 
@@ -80,6 +79,7 @@ ck	っく
 cs	くす
 ct	くと
 ft	ふと
+sc	すく
 st	すと
 lc	るく
 lk	るく
@@ -88,8 +88,10 @@ nc	んく
 nk	んく
 nt	んと
 rc	ーく
+rf	ーふ
 rk	ーく
 rt	ーと
+rp	ーぷ
 ps	っぷす
 pt	ぷと
 
