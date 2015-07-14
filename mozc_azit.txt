@@ -450,6 +450,7 @@ pa	ぱ
 pb	ぽん
 pd	ぺん
 pe	ぺ
+pf	ぱい
 pg	ぴん
 ph	ぽう
 pi	ぴ
