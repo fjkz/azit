@@ -234,7 +234,7 @@ ja	じゃ
 jb	じょん
 jd	じぇん
 je	じぇ
-jf	じょう
+jf	じゅ
 jg	じん
 jh	じょう
 ji	じ
@@ -242,8 +242,8 @@ jl	じぇい
 jm	じゅん
 jn	じゃん
 jo	じょ
-js	じゅ
 ju	じゅ
+jv	じょう
 jw	じゅう
 jy	じゃい
 
