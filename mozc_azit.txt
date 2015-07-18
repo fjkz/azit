@@ -487,6 +487,12 @@ dji	ぢ
 djo	ぢょ
 dju	どぅ
 
+fja	ふゃ
+fje	ふぇ
+fji	ふぃ
+fjo	ふょ
+fju	ふゅ
+
 gja	ぎゃ
 gje	ぎぇ
 gji	ぎぃ
