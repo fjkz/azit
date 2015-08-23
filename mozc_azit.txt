@@ -170,7 +170,7 @@ dm	づん
 dn	だん
 do	ど
 du	づ
-dw	づう
+dw	どぅ
 dy	だい
 d:	づー
 
@@ -497,8 +497,7 @@ dja	ぢゃ
 dje	ぢぇ
 dji	ぢ
 djo	ぢょ
-dju	どぅ
-dj:	どぅー
+dju	でゅ
 
 fja	ふゃ
 fje	ふぇ
