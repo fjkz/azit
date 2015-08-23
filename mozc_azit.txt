@@ -1,14 +1,4 @@
-lxa	ぁ
-lxe	ぇ
-lxi	ぃ
-lxka	ヵ
-lxke	ヶ
-lxo	ぉ
-lxtu	っ
-lxu	ぅ
-lxya	ゃ
-lxyo	ょ
-lxyu	ゅ
+;	っ
 
 cc	っ	c
 ff	っ	f
@@ -149,6 +139,7 @@ bu	ぶ
 bv	びょう
 bw	ぶう
 by	ばい
+b:	ぶー
 
 ca	ちゃ
 cb	ちょん
@@ -164,6 +155,7 @@ co	ちょ
 cu	ちゅ
 cw	ちゅう
 cy	ちゃい
+c:	ちゅー
 
 da	だ
 db	どん
@@ -180,6 +172,7 @@ do	ど
 du	づ
 dw	づう
 dy	だい
+d:	づー
 
 fa	ふぁ
 fb	ふぉん
@@ -196,6 +189,7 @@ fu	ふ
 fv	ふゅー
 fw	ふう
 fy	ふぁい
+f:	ふー
 
 ga	が
 gb	ごん
@@ -212,6 +206,7 @@ gu	ぐ
 gv	ぎょう
 gw	ぐう
 gy	がい
+g:	ぐー
 
 ha	は
 hb	ほん
@@ -227,8 +222,9 @@ hn	はん
 ho	ほ
 hu	ひゅ
 hv	ひょう
-hw	ひゅー
+hw	ひゅう
 hy	はい
+h:	ひゅー
 
 ja	じゃ
 jb	じょん
@@ -246,6 +242,7 @@ ju	じゅ
 jv	じょう
 jw	じゅう
 jy	じゃい
+j:	じゅー
 
 ka	か
 kb	こん
@@ -263,6 +260,7 @@ ku	く
 kv	きょう
 kw	くう
 ky	かい
+k:	くー
 
 la	りゃ
 lb	りょん
@@ -279,6 +277,7 @@ lo	りょ
 lu	りゅ
 lw	りゅう
 ly	りゃい
+l:	りゅー
 
 ma	ま
 mb	もん
@@ -296,6 +295,7 @@ mu	む
 mv	みょう
 mw	むう
 my	まい
+m:	むー
 
 na	な
 nb	のん
@@ -313,6 +313,7 @@ nu	ぬ
 nv	にょう
 nw	にゅう
 ny	ない
+n:	にゅー
 
 pa	ぱ
 pb	ぽん
@@ -330,6 +331,7 @@ pu	ぷ
 pv	ぴょう
 pw	ぷう
 py	ぱい
+p:	ぷー
 
 qa	きゃ
 qb	きょん
@@ -346,6 +348,7 @@ qo	きょ
 qu	きゅ
 qw	きゅう
 qy	きゃい
+q:	きゅー
 
 ra	ら
 rb	ろん
@@ -362,6 +365,7 @@ ru	る
 rv	りょう
 rw	るう
 ry	らい
+r:	るー
 
 sa	さ
 sb	そん
@@ -379,6 +383,7 @@ su	す
 sv	しょう
 sw	すう
 sy	さい
+s:	すー
 
 ta	た
 tb	とん
@@ -395,6 +400,7 @@ to	と
 tu	つ
 tw	つう
 ty	たい
+t:	つー
 
 va	ば
 vb	ぼん
@@ -411,6 +417,7 @@ vo	ぼ
 vu	ぶ
 vw	びゅー
 vy	ヴぃー
+v:	ぶー
 
 wa	わ
 wb	うぉん
@@ -425,6 +432,7 @@ wn	わん
 wo	を
 wu	う
 wy	わい
+w:	うぅー
 
 xa	しゃ
 xb	しょん
@@ -441,6 +449,7 @@ xo	しょ
 xu	しゅ
 xw	しゅう
 xy	しゃい
+x:	しゅー
 
 ya	や
 yb	よん
@@ -452,6 +461,7 @@ yo	よ
 yu	ゆ
 yw	ゆう
 yy	やい
+w:	ゆー
 
 za	ざ
 zb	ぞん
@@ -468,12 +478,14 @@ zo	ぞ
 zu	ず
 zw	ずう
 zy	ざい
+z:	ずー
 
 bja	びゃ
 bje	びぇ
 bji	びぃ
 bjo	びょ
 bju	びゅ
+bj:	びゅー
 
 cja	ちゃ
 cje	ちぇ
@@ -486,18 +498,21 @@ dje	ぢぇ
 dji	ぢ
 djo	ぢょ
 dju	どぅ
+dj:	どぅー
 
 fja	ふゃ
 fje	ふぇ
 fji	ふぃ
 fjo	ふょ
 fju	ふゅ
+fj:	ふゅー
 
 gja	ぎゃ
 gje	ぎぇ
 gji	ぎぃ
 gjo	ぎょ
 gju	ぎゅ
+gj:	ぎゅー
 
 hja	ひゃ
 hje	ひぇ
@@ -516,6 +531,7 @@ mje	みぇ
 mji	みぃ
 mjo	みょ
 mju	みゅ
+mj:	みゅー
 
 nja	にゃ
 nje	にぇ
@@ -528,6 +544,7 @@ pje	ぴぇ
 pji	ぴぃ
 pjo	ぴょ
 pju	ぴゅ
+pj:	ぴゅー
 
 rja	りゃ
 rje	りぇ
@@ -546,6 +563,7 @@ tje	つぇ
 tji	てぃ
 tjo	つぉ
 tju	とぅ
+tj:	とぅー
 
 vja	ヴぁ
 vje	ヴぇ
@@ -559,21 +577,28 @@ wji	ゐ
 wjo	うぉ
 wju	うぅ
 
-z,	‥
-z-	――
-z.	…
-z/	・
-z;	；
-z:	：
-z[	『
-z]	』
+:a	ぁ
+:e	ぇ
+:i	ぃ
+:ka	ヵ
+:ke	ヶ
+:o	ぉ
+:tu	っ
+:u	ぅ
+:ya	ゃ
+:yo	ょ
+:yu	ゅ
+:;	；
+::	：
+:-	――
+:.	……
+:[	『
+:]	』
 
 ,	、
 -	ー
 .	。
 /	・
-:	ー
-;	っ
 ~	〜
 [	「
 ]	」
