@@ -6,7 +6,7 @@ AZIT
 
 日本語入力を効率化するためのローマ字入力法です。
 
-[AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm)を参考にしています。
+[AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm)を参考にしています。作者がAZIKの設定ファイルを作る際に間違ってAZITとつけてしまったのでそれを名前にしました。
 
 以下の方針で設計しています。
 
@@ -274,8 +274,6 @@ Google日本語入力（Mozc）用の設定ファイル
 ### 省略形
 
 よく使う言葉は省略して書くこともできます。
-
-NOTE: 追加・変更される可能性が高いです。
 
 > kto   → こと
 
