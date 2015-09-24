@@ -375,9 +375,9 @@ tb	とん
 td	てん
 te	て
 tf	たい
-tg	てぃん
+tg	ちん
 th	とう
-ti	てぃ
+ti	ち
 tl	てい
 tm	つん
 tn	たん
