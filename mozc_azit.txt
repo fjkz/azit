@@ -39,6 +39,7 @@ wt	わ	t
 
 dk	で	k
 sk	し	k
+tk	と	k
 wk	わ	k
 
 lp	る	p

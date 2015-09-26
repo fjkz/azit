@@ -253,6 +253,8 @@ Google日本語入力（Mozc）用の設定ファイル
 
 > kto   → こと
 
+> tki   → とき
+
 > rsii  → らしい
 
 > mta   → また
