@@ -2,6 +2,7 @@
 
 cc	っ	c
 dd	っ	d
+ff	っ	f
 kk	っ	k
 pp	っ	p
 qq	っ	q
@@ -175,7 +176,6 @@ fa	ふぁ
 fb	ふぉん
 fd	ふぇん
 fe	ふぇ
-ff	ふぁい
 fg	ふぃん
 fh	ふぉー
 fi	ふぃ
