@@ -318,7 +318,7 @@ pn	ぱん
 po	ぽ
 pu	ぷ
 pv	ぴょう
-pw	ぷう
+pw	ぴゅー
 py	ぱい
 
 qa	きゃ
