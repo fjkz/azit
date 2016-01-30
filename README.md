@@ -21,7 +21,7 @@ AZIT
 
 Google日本語入力（Mozc）用の設定ファイル
 
-> mozc_azit.txt
+- mozc\_azit.txt
 
 を用意しています。
 
