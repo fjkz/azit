@@ -1,13 +1,14 @@
 cc	っ	c
-dd	っ	d
 ff	っ	f
 kk	っ	k
 pp	っ	p
 qq	っ	q
 ss	っ	s
 tt	っ	t
+vv	っ
 xx	っ	x
 zz	っ	z
+;	っ
 
 ds	で	s
 gs	ぐ	s
@@ -84,7 +85,6 @@ q;	っく
 r;	ー
 s;	す
 t;	っと
-v;	ぶ
 w;	ー
 x;	っくす
 y;	い
@@ -122,6 +122,22 @@ i	い
 o	お
 u	う
 
+va	あ
+vb	おん
+vd	えん
+ve	え
+vf	あい
+vg	いん
+vh	おう
+vi	い
+vl	えい
+vm	うん
+vn	あん
+vo	お
+vu	う
+vw	うう
+vy	あい
+
 ba	ば
 bb	ぼん
 bd	べん
@@ -157,6 +173,7 @@ cy	ちゃい
 
 da	だ
 db	どん
+dd	でん
 de	で
 df	だい
 dg	でぃん
@@ -233,7 +250,6 @@ jm	じゅん
 jn	じゃん
 jo	じょ
 ju	じゅ
-jv	じょう
 jw	じゅう
 jy	じゃい
 
@@ -387,22 +403,6 @@ tu	つ
 tw	つう
 ty	たい
 
-va	ば
-vb	ぼん
-vd	べん
-ve	べ
-vf	ばい
-vg	びん
-vh	ぼう
-vi	び
-vl	べい
-vm	ぶん
-vn	ばん
-vo	ぼ
-vu	ぶ
-vw	びゅー
-vy	ヴぃー
-
 wa	わ
 wb	うぉん
 wd	うぇん
@@ -466,12 +466,6 @@ bji	びぃ
 bjo	びょ
 bju	びゅ
 
-cja	ちゃ
-cje	ちぇ
-cji	ち
-cjo	ちょ
-cju	ちゅ
-
 dja	ぢゃ
 dje	ぢぇ
 dji	ぢ
@@ -496,12 +490,6 @@ hji	ひぃ
 hjo	ひょ
 hju	ひゅ
 
-kja	きゃ
-kje	きぇ
-kji	きぃ
-kjo	きょ
-kju	きゅ
-
 mja	みゃ
 mje	みぇ
 mji	みぃ
@@ -519,18 +507,6 @@ pje	ぴぇ
 pji	ぴぃ
 pjo	ぴょ
 pju	ぴゅ
-
-rja	りゃ
-rje	りぇ
-rji	りぃ
-rjo	りょ
-rju	りゅ
-
-sja	しゃ
-sje	しぇ
-sji	し
-sjo	しょ
-sju	しゅ
 
 tja	つぁ
 tje	つぇ
@@ -563,8 +539,9 @@ wju	うぅ
 @yu	ゅ
 @;	；
 @:	：
+v;	；
+v:	：
 
-;	っ
 ,	、
 -	ー
 :	ー
