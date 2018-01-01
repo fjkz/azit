@@ -135,7 +135,7 @@ vm	うん
 vn	あん
 vo	お
 vu	う
-vw	うう
+vw	びゅー
 vy	あい
 
 ba	ば
